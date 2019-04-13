@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Room Database Integration</string>
+    <string name="name">Name</string>
+    <string name="submit_name">Submit name</string>
+    <string name="list_names">List names</string>
+    <string name="name_added">Name added"</string>
+</resources>
